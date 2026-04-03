@@ -1,13 +1,13 @@
 # Optimization_labs
 University Course: Optimization Methods
 
-===============================================================================================================================================================
+=============================================================================
 
 Lab 1: Optimization Methods for Functions of a Single Variable
 
 Objective: Research and performance analysis of the Golden Section, Dichotomy, and Ternary search methods, including their efficiency measurements.
 
-===============================================================================================================================================================
+=============================================================================
 
 Lab 2: Optimization Methods for Functions of Multivariate function
 
