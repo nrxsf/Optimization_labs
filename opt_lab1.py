@@ -4,7 +4,9 @@ import pandas as pd
 from math import sin, sqrt
 import matplotlib.pyplot as plt
 
-G = lambda x: sin(x)**4 + 6 * (x - 1)**2 + 10
+G = lambda x: sin(x) ** 4 + 6 * (x - 1) ** 2 + 10
+
+a, b = 0, 2
 
 def bruteforce_search(f, a, b, epsilon):
     n = 0
@@ -162,8 +164,6 @@ def print_data(f, searches, intervals, eps_values, repeats=1000):
 
 
 if __name__ == '__main__':
-
-    a, b = 0, 2
 
     steps = [1, 0.1, 0.01, 0.001, 0.0001]
 
