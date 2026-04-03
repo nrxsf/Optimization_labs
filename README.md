@@ -1,2 +1,14 @@
 # Optimization_labs
-My university method of optimization labs
+University Course: Optimization Methods
+
+===============================================================================================================================================================
+
+Lab 1: Optimization Methods for Functions of a Single Variable
+
+Objective: Research and performance analysis of the Golden Section, Dichotomy, and Ternary search methods, including their efficiency measurements.
+
+===============================================================================================================================================================
+
+Lab 2: Optimization Methods for Functions of Multivariate function
+
+Objective: Research and performance analysis of the Gradient descent, Hooke-Jeeves, Modified simplex method for finding minimum of function of several variables
